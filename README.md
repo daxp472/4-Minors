@@ -9,10 +9,10 @@ Selected for [Hackathon Name/Organization], we're a team of passionate innovator
 
 ## 👥 Team Members:
 
-- 🎯 **Kalpan Kaneria** – Team Leader & Project Strategist  
+- 🎯 **Kalpan Kaneria** – Team Leader & Frontend Devloper  
 - 🤖 **Dax Patel** – AI & ML Developer  
 - 🔧 **Mohit Soni** – Backend Developer & Logic Architect  
-- 🎨 **Ishita Trivedi** – Frontend Developer & Presentation Lead  
+- 🎨 **Ishita Trivedi** – Ui/Ux And Deployments & Presentation Lead  
 
 ---
 
